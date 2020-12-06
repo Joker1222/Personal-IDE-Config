@@ -53,7 +53,11 @@ $ python3 install.py --go-completer #编译，并加入 go 的支持
 | zz | :wq |保存退出|
 | , | shift + [ | 上翻一段 |
 | . | shitf + ] | 下翻一段 |
-
+|tt | :NERDTreeToggle<cr> | 打开nerdtree目录结构|
+|tf | :NERDTreeFind<cr> | 以当前文件为根节点打开nerdtree目录结构|
+|no | :noh<cr> | 取消搜索高亮|
+|ctrl + p | ctrlp | 搜索当前文件目录下的所有文件|
+ 
 | nerdtree |  Desc | 
 |-|-|
 | o | 在已有窗口中打开文件、目录或书签，并跳到该窗口|
@@ -66,6 +70,7 @@ $ python3 install.py --go-completer #编译，并加入 go 的支持
 | r | 递归刷新选中目录 |
 | m | amdc 文件操作(新建、移动、删除、复制当前文件) |
 
+|||
 ## Linux效果
 ![linux vim show](../png/linux_vim_show.png)
 
