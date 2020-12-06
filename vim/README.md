@@ -70,6 +70,17 @@ $ python3 install.py --go-completer #编译，并加入 go 的支持
 | r | 递归刷新选中目录 |
 | m | amdc 文件操作(新建、移动、删除、复制当前文件) |
 
+~~~vim
+1.批量注释
+:v         #选择
+:control+v #进入列编辑模式
+:shift+i   #编辑注释代码
+:esc+esc   #快速按两次esc
+
+2.反注释
+:control+v #列编辑模式
+:d         #批量删除即可
+~~~
 
 ## Linux效果
 ![linux vim show](../png/linux_vim_show.png)
