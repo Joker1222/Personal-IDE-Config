@@ -41,7 +41,7 @@ $ cd ~/.vim/plugged/YouCompleteMe
 $ python3 install.py --go-completer #编译，并加入 go 的支持
 ~~~
 
-## 常用快捷键备份
+## 常用快捷键
 
 | My Keymap| Dafult Keymap | Desc | 
 |-|-|-|
