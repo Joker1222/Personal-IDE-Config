@@ -43,8 +43,8 @@ $ python3 install.py --go-completer #编译，并加入 go 的支持
 
 ## 常用快捷键备份
 
-| My Keymap|Dafult Keymap|Desc | 
-|-|-|
+| My Keymap| Dafult Keymap | Desc | 
+|-|-|-|
 | ctrl + h | ctrl + w + h |窗口跳转 左|
 | ctrl + j | ctrl + w + j |窗口跳转 下|
 | ctrl + k | ctrl + w + k |窗口跳转 上|
