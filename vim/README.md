@@ -70,7 +70,7 @@ $ python3 install.py --go-completer #编译，并加入 go 的支持
 | r | 递归刷新选中目录 |
 | m | amdc 文件操作(新建、移动、删除、复制当前文件) |
 
-|||
+
 ## Linux效果
 ![linux vim show](../png/linux_vim_show.png)
 
