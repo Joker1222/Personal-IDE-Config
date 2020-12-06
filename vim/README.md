@@ -41,3 +41,11 @@ $ cd ~/.vim/plugged/YouCompleteMe
 $ python3 install.py --go-completer #编译，并加入 go 的支持
 ~~~
 
+
+## Linux效果
+![linux vim show](../png/linux_vim_show.png)
+
+## Mac效果
+![mac vim show](../png/mac_vim_show.png)
+
+
