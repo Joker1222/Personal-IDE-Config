@@ -41,6 +41,30 @@ $ cd ~/.vim/plugged/YouCompleteMe
 $ python3 install.py --go-completer #编译，并加入 go 的支持
 ~~~
 
+## 常用快捷键备份
+
+| My Keymap | Dafult Keymap | Desc | 
+|-|-|
+| ctrl + h | ctrl + w + h |窗口跳转 左|
+| ctrl + j | ctrl + w + j |窗口跳转 下|
+| ctrl + k | ctrl + w + k |窗口跳转 上|
+| ctrl + l | ctrl + w + l |窗口跳转 右|
+| qq | :q! |不保存退出|
+| zz | :wq |保存退出|
+| , | shift + [ | 上翻一段 |
+| . | shitf + ] | 下翻一段 |
+
+| nerdtree |  Desc | 
+|-|-|
+| o | 在已有窗口中打开文件、目录或书签，并跳到该窗口|
+| shift + o | 递归打开选中 结点下的所有目录|
+| shift + c | 将选中目录或选中文件的父目录设为根结点|
+| q | 关闭NerdTree窗口|
+| t | 在新Tab中打开选中文件/书签，并跳到新Tab |
+| i | split一个新窗口打开选中文件，并跳到该窗口|
+| p | 跳到父结点 |
+| r | 递归刷新选中目录 |
+| m | amdc 文件操作(新建、移动、删除、复制当前文件) |
 
 ## Linux效果
 ![linux vim show](../png/linux_vim_show.png)
