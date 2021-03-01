@@ -9,7 +9,8 @@
 
 " 关闭兼容模式
 set nocompatible
-
+" 避免delete退格无法向左删除字符
+set backspace=2
 set nu " 设置行号
 set cursorline "突出显示当前行
 " set cursorcolumn " 突出显示当前列
